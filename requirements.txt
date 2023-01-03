@@ -1,0 +1,10 @@
+pycryptodomex
+tqdm
+mock==5.0.0
+ddt
+raven
+lxml
+numpy==1.24.1
+Pillow==9.4.0
+psutil
+opencv-python==4.7.0.68
