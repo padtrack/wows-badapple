@@ -7,4 +7,4 @@ lxml
 numpy==1.24.1
 Pillow==9.4.0
 psutil
-opencv-python==4.7.0.68
+opencv-python==4.8.1.78
